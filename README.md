@@ -4,7 +4,7 @@ Paytm-Payment Gateway Example On Python-Django
 * First clone the project, open your terminal and enter the command
 
 ```javascript
-git clone https://github.com/itsnikhil/paytm-django.git
+git clone https://github.com/Adarsh-Shrivastava-001/paytm_pay.git
 ```
 * Now create a virtual environment
 ```javascript
